@@ -10,7 +10,7 @@ DEBUG = os.getenv('DEBUG', 'False').lower() == 'true'
 
 ALLOWED_HOSTS = [
     'localhost',
-    '127.0.0.1', 
+    '127.0.0.1',
     'backend',
     'govorduck.myvnc.com',
     '84.201.161.181'
